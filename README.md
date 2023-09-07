@@ -1,6 +1,8 @@
 # Graduation Project
 (SkillBox course 'Data Science')
 
+<img src="https://github.com/ilydkin/fastapi-classification/assets/115424463/0c374c21-4d3c-4807-8dd6-163be64df0b7" width="400" height="250">
+
 ## Business Understanding
 According to the task description - provided at the beginning of the EDA.ipynb - the company maintains two databases: one for customer website session data (`ga_sessions`) and another for actions within each session (`ga_hits`). The objective is to predict whether a customer performs a target action (`ga_hits['event_action']`), i.e. clicks as desired by the company.
 
